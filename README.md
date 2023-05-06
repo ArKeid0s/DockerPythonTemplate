@@ -19,4 +19,4 @@ After that, in the bottom-left corner of your VSCode, click the '><' button and 
 It will open a VSCode instance inside the container, and you will be able to use the installed packages as if they were installed on your computer, but they are only in the container.
 
 ### Example
-The current example is using FastAPI, so at the start of the container, you can go to your web browser and visit http://localhost:80, and you will see "Hello: World."```
+The current example is using FastAPI, so at the start of the container, you can go to your web browser and visit http://localhost:80, and you will see "Hello: World."
